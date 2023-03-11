@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contract/static/css/main.bec6644b.css",
+    "main.js": "/contract/static/js/main.7252ecdc.js",
+    "static/js/787.afbbe292.chunk.js": "/contract/static/js/787.afbbe292.chunk.js",
+    "index.html": "/contract/index.html",
+    "main.bec6644b.css.map": "/contract/static/css/main.bec6644b.css.map",
+    "main.7252ecdc.js.map": "/contract/static/js/main.7252ecdc.js.map",
+    "787.afbbe292.chunk.js.map": "/contract/static/js/787.afbbe292.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec6644b.css",
+    "static/js/main.7252ecdc.js"
+  ]
+}
