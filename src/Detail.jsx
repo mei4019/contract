@@ -11,7 +11,7 @@ const Detail = () => {
   useEffect(() => {
     const encrypted = location.search.split('data=')[1]
     setData(decrypt(encrypted))
-    console.log(decrypt(encrypted), location);
+    // console.log(decrypt(encrypted), location);
   }, [location])
 
   useEffect(() => {
